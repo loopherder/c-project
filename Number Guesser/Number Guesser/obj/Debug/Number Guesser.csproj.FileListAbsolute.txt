@@ -1,0 +1,7 @@
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\bin\Debug\Number Guesser.exe.config
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\bin\Debug\Number Guesser.exe
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\bin\Debug\Number Guesser.pdb
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.csprojAssemblyReference.cache
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.exe
+C:\Users\looph\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.pdb
